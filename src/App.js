@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React, Hello world!
+          Modified version, deployment made with Amazon Amplify!!!
         </a>
       </header>
     </div>
